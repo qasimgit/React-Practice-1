@@ -1,0 +1,32 @@
+.prodChild{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(212, 209, 205);
+    box-shadow: 3px 3px 3px;
+    margin: 30px;
+}
+
+.prodImage{
+    height: 300px;
+    width: 400px;
+    
+
+}
+
+.prodButton{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 600;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 8px 8px 5px 8px;
+    margin-right: 20px;
+    cursor: pointer;
+    float: right;
+}
+
+.prodNamePrice{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
